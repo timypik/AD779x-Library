@@ -1,6 +1,6 @@
-AD779x Library
+Analog Devices Sigma-Delta ADC AD779x driver
 ==============
 
 Library contains:
-* Analog Devices Sigma-Delta ADC AD779x driver (for single device)
-* Analog Devices Sigma-Delta ADC AD779x driver (for multiple devices)
+* optimized for single device on SPI bus
+* optimized for multiple devices on SPI bus
