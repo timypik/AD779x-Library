@@ -4,7 +4,7 @@
   * @author  Khusainov Timur
   * @version 0.0.0.1
   * @date    10.10.2011
-  * @brief   Analog Devices Sigma-Delta ADC AD779x driver (for multiple devices)
+  * @brief   Analog Devices Sigma-Delta ADC AD7792/AD7793 driver (for multiple devices)
   ******************************************************************************
   * @attention
   * <h2><center>&copy; COPYRIGHT 2011 timypik@gmail.com </center></h2>

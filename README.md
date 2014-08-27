@@ -1,4 +1,4 @@
-Analog Devices Sigma-Delta ADC AD779x driver
+Analog Devices Sigma-Delta ADC AD7792/AD7793 driver
 ==============
 
 Library contains:
